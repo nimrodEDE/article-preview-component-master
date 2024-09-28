@@ -132,7 +132,7 @@ button {
   margin-right: 1.5rem;
 }
 
-@media (min-width: 65.5rem) {
+@media (min-width: 52rem) {
   .container {
     max-width: 55rem;
     flex-direction: row;
